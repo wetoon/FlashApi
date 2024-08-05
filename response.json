@@ -1,0 +1,61 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "express_category_text": "ส่งแบบมาตรฐาน",
+            "paid_by_sender": {
+                "price_policy": 1,
+                "price_policy_text": "คิดค่าขนส่งตามน้ำหนัก",
+                "parcel_amount": 37500,
+                "cod_poundage_amount": 0,
+                "same_province": true,
+                "upcountry": false,
+                "total_amount": 0,
+                "upcountry_amount": 0,
+                "freight_insure_amount": 0,
+                "happy_return_amount": 0,
+                "opd_insure_amount": null,
+                "insure_amount": 0,
+                "speed_amount": 0,
+                "restricted_enabled": false,
+                "code": null,
+                "min_weight": null,
+                "max_weight": null,
+                "store_weight": 30000,
+                "lwh_weight": 10000,
+                "order_amounts": null,
+                "promo_amount": null,
+                "settlement_type": 1,
+                "settlement_type_text": "ชำระเงินโดยผู้ส่ง",
+                "region_surcharge_category": 0
+            },
+            "paid_by_consignee": {
+                "price_policy": 1,
+                "price_policy_text": "คิดค่าขนส่งตามน้ำหนัก",
+                "parcel_amount": 37800,
+                "cod_poundage_amount": 0,
+                "same_province": true,
+                "upcountry": false,
+                "total_amount": 0,
+                "upcountry_amount": 0,
+                "freight_insure_amount": 0,
+                "happy_return_amount": 0,
+                "opd_insure_amount": null,
+                "insure_amount": 0,
+                "speed_amount": 0,
+                "restricted_enabled": false,
+                "code": null,
+                "min_weight": null,
+                "max_weight": null,
+                "store_weight": 30000,
+                "lwh_weight": 10000,
+                "order_amounts": null,
+                "promo_amount": null,
+                "settlement_type": 2,
+                "settlement_type_text": "ชำระเงินโดยผู้รับ",
+                "region_surcharge_category": 0
+            }
+        }
+    ]
+}
